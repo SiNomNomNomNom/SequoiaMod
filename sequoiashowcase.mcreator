@@ -285,6 +285,23 @@
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_button_recipe.json"
         ]
       }
+    },
+    {
+      "name": "RedwoodBark",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_bark",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_bark.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_bark.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodBarkBlock.java",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_bark.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_bark.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_bark.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -340,14 +357,18 @@
       "item.sequoiashowcase.redwood_fence": "Redwood Fence",
       "item.sequoiashowcase.redwood_fence_gate": "Redwood Fence Gate",
       "item.sequoiashowcase.redwood_pressure_plate": "Redwood Pressure Plate",
-      "item.sequoiashowcase.redwood_button": "Redwood Button"
+      "item.sequoiashowcase.redwood_button": "Redwood Button",
+      "item.sequoiashowcase.redwood_bark": "Redwood Bark"
     }
   },
   "metadata": {
     "files": [
-      "src/main/resources/pack.mcmeta",
       "src/main/resources/META-INF/neoforge.mods.toml",
-      "src/main/java/net/mcreator/sequoiashowcase/SequoiashowcaseMod.java"
+      "src/main/java/net/mcreator/sequoiashowcase/SequoiashowcaseMod.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/sequoiashowcase/init/SequoiashowcaseModTabs.java",
+      "src/main/java/net/mcreator/sequoiashowcase/init/SequoiashowcaseModBlocks.java",
+      "src/main/java/net/mcreator/sequoiashowcase/init/SequoiashowcaseModItems.java"
     ]
   },
   "foldersRoot": {

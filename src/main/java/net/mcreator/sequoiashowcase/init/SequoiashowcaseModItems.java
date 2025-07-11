@@ -27,6 +27,7 @@ public class SequoiashowcaseModItems {
 	public static final DeferredItem<Item> REDWOOD_FENCE_GATE = block(SequoiashowcaseModBlocks.REDWOOD_FENCE_GATE);
 	public static final DeferredItem<Item> REDWOOD_PRESSURE_PLATE = block(SequoiashowcaseModBlocks.REDWOOD_PRESSURE_PLATE);
 	public static final DeferredItem<Item> REDWOOD_BUTTON = block(SequoiashowcaseModBlocks.REDWOOD_BUTTON);
+	public static final DeferredItem<Item> REDWOOD_BARK = block(SequoiashowcaseModBlocks.REDWOOD_BARK);
 
 	// Start of user code block custom items
 	// End of user code block custom items

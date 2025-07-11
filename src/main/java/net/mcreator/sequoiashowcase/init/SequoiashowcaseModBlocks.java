@@ -19,6 +19,7 @@ import net.mcreator.sequoiashowcase.block.RedwoodLeavesBlock;
 import net.mcreator.sequoiashowcase.block.RedwoodFenceGateBlock;
 import net.mcreator.sequoiashowcase.block.RedwoodFenceBlock;
 import net.mcreator.sequoiashowcase.block.RedwoodButtonBlock;
+import net.mcreator.sequoiashowcase.block.RedwoodBarkBlock;
 import net.mcreator.sequoiashowcase.SequoiashowcaseMod;
 
 import java.util.function.Function;
@@ -35,6 +36,7 @@ public class SequoiashowcaseModBlocks {
 	public static final DeferredBlock<Block> REDWOOD_FENCE_GATE = register("redwood_fence_gate", RedwoodFenceGateBlock::new);
 	public static final DeferredBlock<Block> REDWOOD_PRESSURE_PLATE = register("redwood_pressure_plate", RedwoodPressurePlateBlock::new);
 	public static final DeferredBlock<Block> REDWOOD_BUTTON = register("redwood_button", RedwoodButtonBlock::new);
+	public static final DeferredBlock<Block> REDWOOD_BARK = register("redwood_bark", RedwoodBarkBlock::new);
 
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
