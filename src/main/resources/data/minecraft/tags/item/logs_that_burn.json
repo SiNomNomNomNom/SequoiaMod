@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#sequoiashowcase:redwood_logs",
+      "required": false
+    }
+  ]
+}

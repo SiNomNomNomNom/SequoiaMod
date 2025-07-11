@@ -1,0 +1,373 @@
+{
+  "mod_elements": [
+    {
+      "name": "RedwoodLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sequoiashowcase/items/redwood_log.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodLogBlock.java",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_log.json",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_log.json",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_log.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_log.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_wood.json",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_wood.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_wood.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_wood.json",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_wood.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodWoodBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodPlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_planks.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodPlanksBlock.java",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_planks.json",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_planks.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_planks.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_leaves.json",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_leaves.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodLeavesBlock.java",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_leaves.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_leaves.json",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_leaves.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_stairs.json",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_stairs.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_stairs.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_stairs.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_stairs.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_stairs_outer.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodStairsBlock.java",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_stairs_inner.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_slab.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_slab_full.json",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_slab.json",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_slab.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_slab.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodSlabBlock.java",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_slab.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_slab_top.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_fence",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodFenceBlock.java",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_fence.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_fence.json",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_fence.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence_inventory.json",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_fence.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence_post.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodFenceGate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodFenceGateBlock.java",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_fence_gate.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence_gate_open.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence_gate_wall.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence_gate.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence_gate_wall_open.json",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_fence_gate.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_fence_gate.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_fence_gate.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodPressurePlate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_pressure_plate.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_pressure_plate.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodPressurePlateBlock.java",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_pressure_plate.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_pressure_plate.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_pressure_plate.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_pressure_plate_down.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodButton",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_button_inventory.json",
+          "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodButtonBlock.java",
+          "src/main/resources/assets/sequoiashowcase/models/item/redwood_button.json",
+          "src/main/resources/assets/sequoiashowcase/blockstates/redwood_button.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_button_pressed.json",
+          "src/main/resources/assets/sequoiashowcase/models/block/redwood_button.json",
+          "src/main/resources/assets/sequoiashowcase/items/redwood_button.json",
+          "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_button.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_wood_recipe.json",
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodPlanksRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_planks_recipe.json",
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_planks_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_stairs_recipe.json",
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_slab_recipe.json",
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_fence_recipe.json",
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodFenceGateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_fence_gate_recipe.json",
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodPressurePlateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_pressure_plate_recipe.json",
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "RedwoodButtonRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redwood_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sequoiashowcase/recipe/redwood_button_recipe.json",
+          "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_button_recipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:mod:redwood_logs": [
+      "CUSTOM:RedwoodLog",
+      "CUSTOM:RedwoodWood"
+    ],
+    "BLOCKS:minecraft:logs_that_burn": [
+      "TAG:mod:redwood_logs"
+    ],
+    "BLOCKS:minecraft:planks": [
+      "CUSTOM:RedwoodPlanks"
+    ],
+    "ITEMS:mod:redwood_logs": [
+      "CUSTOM:RedwoodLog",
+      "CUSTOM:RedwoodWood"
+    ],
+    "ITEMS:minecraft:logs_that_burn": [
+      "TAG:mod:redwood_logs"
+    ],
+    "ITEMS:minecraft:planks": [
+      "CUSTOM:RedwoodPlanks"
+    ],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:RedwoodPlanks",
+      "~CUSTOM:RedwoodWood",
+      "~CUSTOM:RedwoodLog"
+    ],
+    "BLOCKS:minecraft:leaves": [
+      "~CUSTOM:RedwoodLeaves"
+    ],
+    "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:RedwoodStairs"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:RedwoodSlab"
+    ],
+    "BLOCKS:minecraft:wooden_fences": [
+      "~CUSTOM:RedwoodFence"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.sequoiashowcase.redwood_log": "Redwood Log",
+      "item.sequoiashowcase.redwood_wood": "Redwood Wood",
+      "item.sequoiashowcase.redwood_planks": "Redwood Planks",
+      "item.sequoiashowcase.redwood_leaves": "Redwood Leaves",
+      "item.sequoiashowcase.redwood_stairs": "Redwood Stairs",
+      "item.sequoiashowcase.redwood_slab": "Redwood Slab",
+      "item.sequoiashowcase.redwood_fence": "Redwood Fence",
+      "item.sequoiashowcase.redwood_fence_gate": "Redwood Fence Gate",
+      "item.sequoiashowcase.redwood_pressure_plate": "Redwood Pressure Plate",
+      "item.sequoiashowcase.redwood_button": "Redwood Button"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/sequoiashowcase/SequoiashowcaseMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sequoiashowcase",
+    "modName": "SequoiaShowcase",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "modElementsPackage": "net.mcreator.sequoiashowcase"
+  },
+  "mcreatorVersion": 202500227613
+}

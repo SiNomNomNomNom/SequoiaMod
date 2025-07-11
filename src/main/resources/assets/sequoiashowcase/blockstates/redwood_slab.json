@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sequoiashowcase:block/redwood_slab"
+    },
+    "type=top": {
+      "model": "sequoiashowcase:block/redwood_slab_top"
+    },
+    "type=double": {
+      "model": "sequoiashowcase:block/redwood_slab_full"
+    }
+  }
+}

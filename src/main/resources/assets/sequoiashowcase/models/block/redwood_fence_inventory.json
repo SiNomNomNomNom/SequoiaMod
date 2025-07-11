@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "sequoiashowcase:block/redwood_planks",
+    "particle": "sequoiashowcase:block/redwood_planks"
+  },
+  "render_type": "solid"
+}

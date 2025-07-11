@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "sequoiashowcase:redwood_planks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "sequoiashowcase:redwood_fence",
+    "count": 3
+  }
+}

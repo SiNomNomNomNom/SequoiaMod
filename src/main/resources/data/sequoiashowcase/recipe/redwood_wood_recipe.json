@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "sequoiashowcase:redwood_log"
+  },
+  "result": {
+    "id": "sequoiashowcase:redwood_wood",
+    "count": 3
+  }
+}

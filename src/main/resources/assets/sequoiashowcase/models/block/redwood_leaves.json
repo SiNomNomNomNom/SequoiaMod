@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sequoiashowcase:block/redwood_leaves",
+    "particle": "sequoiashowcase:block/redwood_leaves"
+  }
+}
