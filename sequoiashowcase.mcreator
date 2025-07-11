@@ -15,7 +15,8 @@
           "src/main/resources/assets/sequoiashowcase/blockstates/redwood_log.json",
           "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_log.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodWood",
@@ -32,7 +33,8 @@
           "src/main/resources/assets/sequoiashowcase/models/item/redwood_wood.json",
           "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodWoodBlock.java"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodPlanks",
@@ -49,7 +51,8 @@
           "src/main/resources/assets/sequoiashowcase/items/redwood_planks.json",
           "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_planks.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodLeaves",
@@ -66,7 +69,8 @@
           "src/main/resources/assets/sequoiashowcase/items/redwood_leaves.json",
           "src/main/resources/assets/sequoiashowcase/models/item/redwood_leaves.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodStairs",
@@ -85,7 +89,8 @@
           "src/main/java/net/mcreator/sequoiashowcase/block/RedwoodStairsBlock.java",
           "src/main/resources/assets/sequoiashowcase/models/block/redwood_stairs_inner.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodSlab",
@@ -104,7 +109,8 @@
           "src/main/resources/assets/sequoiashowcase/items/redwood_slab.json",
           "src/main/resources/assets/sequoiashowcase/models/block/redwood_slab_top.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodFence",
@@ -123,7 +129,8 @@
           "src/main/resources/assets/sequoiashowcase/blockstates/redwood_fence.json",
           "src/main/resources/assets/sequoiashowcase/models/block/redwood_fence_post.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodFenceGate",
@@ -143,7 +150,8 @@
           "src/main/resources/assets/sequoiashowcase/items/redwood_fence_gate.json",
           "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_fence_gate.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodPressurePlate",
@@ -161,7 +169,8 @@
           "src/main/resources/assets/sequoiashowcase/items/redwood_pressure_plate.json",
           "src/main/resources/assets/sequoiashowcase/models/block/redwood_pressure_plate_down.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodButton",
@@ -180,7 +189,8 @@
           "src/main/resources/assets/sequoiashowcase/items/redwood_button.json",
           "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_button.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodWoodRecipe",
@@ -193,7 +203,8 @@
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_wood_recipe.json",
           "src/main/resources/data/sequoiashowcase/recipe/redwood_wood_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodPlanksRecipe",
@@ -206,7 +217,8 @@
           "src/main/resources/data/sequoiashowcase/recipe/redwood_planks_recipe.json",
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_planks_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodStairsRecipe",
@@ -219,7 +231,8 @@
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_stairs_recipe.json",
           "src/main/resources/data/sequoiashowcase/recipe/redwood_stairs_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodSlabRecipe",
@@ -232,7 +245,8 @@
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_slab_recipe.json",
           "src/main/resources/data/sequoiashowcase/recipe/redwood_slab_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodFenceRecipe",
@@ -245,7 +259,8 @@
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_fence_recipe.json",
           "src/main/resources/data/sequoiashowcase/recipe/redwood_fence_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodFenceGateRecipe",
@@ -258,7 +273,8 @@
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_fence_gate_recipe.json",
           "src/main/resources/data/sequoiashowcase/recipe/redwood_fence_gate_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodPressurePlateRecipe",
@@ -271,7 +287,8 @@
           "src/main/resources/data/sequoiashowcase/recipe/redwood_pressure_plate_recipe.json",
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_pressure_plate_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodButtonRecipe",
@@ -284,7 +301,8 @@
           "src/main/resources/data/sequoiashowcase/recipe/redwood_button_recipe.json",
           "src/main/resources/data/sequoiashowcase/advancement/recipes/redwood_button_recipe.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     },
     {
       "name": "RedwoodBark",
@@ -301,7 +319,8 @@
           "src/main/resources/data/sequoiashowcase/loot_table/blocks/redwood_bark.json",
           "src/main/resources/assets/sequoiashowcase/models/block/redwood_bark.json"
         ]
-      }
+      },
+      "path": "~/TreeStuff"
     }
   ],
   "variable_elements": [],
@@ -373,7 +392,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "TreeStuff",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "sequoiashowcase",
